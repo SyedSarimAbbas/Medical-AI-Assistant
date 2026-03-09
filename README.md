@@ -258,9 +258,7 @@ curl -X 'POST' \
 
 *(Replace these placeholders with actual screenshots once deployed)*
 
-| Login Interface | Chat Interface |
-| :---: | :---: |
-| <img src="https://placehold.co/400x250/20232A/FFF?text=Login+Screen" alt="Auth Page" /> | <img src="https://placehold.co/400x250/20232A/FFF?text=Chat+Interface" alt="Chat UI" /> |
+| <img width="1280" alt="Login Interface" src="https://github.com/user-attachments/assets/5a0a89e0-3d68-4639-ac52-aebb5de209a2" /> | <img width="1280" alt="Chat Interface" src="https://github.com/user-attachments/assets/abf852d2-97a0-4f91-90fe-25cdab391f32" /> |
 
 ---
 
@@ -290,5 +288,5 @@ Contributions are what make the open source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
-  <sub>Built with ❤️ by the community.</sub>
+  <sub>Built by Syed Sarim Abbas.</sub>
 </div>
