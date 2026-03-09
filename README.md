@@ -256,7 +256,6 @@ curl -X 'POST' \
 
 ## 📸 Screenshots
 
-*(Replace these placeholders with actual screenshots once deployed)*
 
 | <img width="1280" alt="Login Interface" src="https://github.com/user-attachments/assets/5a0a89e0-3d68-4639-ac52-aebb5de209a2" /> | <img width="1280" alt="Chat Interface" src="https://github.com/user-attachments/assets/abf852d2-97a0-4f91-90fe-25cdab391f32" /> |
 
